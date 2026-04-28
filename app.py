@@ -3,7 +3,7 @@ import requests
 
 st.set_page_config(page_title="Conversation Reflection AI", layout="wide")
 
-API_KEY = "API_KEY = "your_api_key_here"
+API_KEY = "your_api_key_here"
 
 
 # ---------- SESSION ----------
